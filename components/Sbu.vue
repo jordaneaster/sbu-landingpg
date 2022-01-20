@@ -89,8 +89,7 @@
         <span class="header">HOW TO STAY IN THE KNOW?</span> Follow Space Babiez
         on all social media platforms. We will be giving away some treasured
         prizes during our launch week that will include cash give-a-ways, NFT
-        Airdrops, Whitelisting, and special items like a brand new PS5! Look out
-        for chances to win at the accounts below!
+        Airdrops, Whitelisting, and special items like a brand new PS5! Stay tapped into our social media accounts for special promotions and give-a-ways!
       </p>
     </div>
     <div class="social-icons">
