@@ -81,7 +81,7 @@
       <p>
         <span class="header">HOW CAN I BECOME A GUARDIAN?</span> All information
         surrounding the purchase of Space Babiez and our roadmap will be
-        announced during Launch Week. LAUNCH DAY: MONDAY, JANUARY 31ST.
+        announced during Launch Week. <span class="header">LAUNCH DAY: MONDAY, JANUARY 31ST.</span> 
       </p>
     </div>
     <div class="intro">
