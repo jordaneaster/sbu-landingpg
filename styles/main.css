@@ -1,0 +1,103 @@
+html {
+    background-image: url('static/background2.png');
+}
+.intro{
+    color: white;
+    font-size: x-large;
+    font-family: 'Russo One';
+    background-color:darkorchid;
+    border: 0.3rem;
+    border-style: ridge;
+    border-color: chartreuse;
+    border-radius: 1rem;
+    padding: 4px;
+    margin-bottom: 2rem;
+    width: 75%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin-left: 12%;
+    align-items: center;
+  }
+  .intro:hover{
+    transform: scale(1.3);
+  }
+  .countdown{
+      text-align: center;
+      font-size: xx-large;
+      font-family: 'Russo One', sans-serif;
+      color: darkorchid;
+      margin-left: 1rem;
+      margin-right: 1rem;
+  }
+  .promo{
+    font-family: 'Russo One', sans-serif;
+  }
+  .sbu-container{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-content: center;
+  }
+  .koji{
+      border: 1px;
+      border-radius: 2rem;
+      border-style: solid;
+      border-color: chartreuse;
+      color: chartreuse;
+      height: 90px;
+      width: 250px;
+      padding: 2px;
+      font-family: 'Russo One', sans-serif;
+      font-size: x-large;
+      background-color: darkorchid;
+      cursor:pointer;
+  }
+  .header{
+      color:chartreuse;
+  }
+  .social-icons{
+      background-color: chartreuse;
+      width: 80%;
+      margin-left: 9%;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      padding: 6px;
+      border-radius: 2rem;
+  }
+  .land-nav{
+      background-color: chartreuse;
+      width: 80%;
+      margin-left: 9%;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      border-radius: 2rem;
+      padding: 2px;
+      margin-bottom: 2rem;
+  }
+  .icon{
+      height: 70px;
+      width: auto;
+      padding: 4px;
+  }
+  .icon2{
+      height: 120px;
+      width: auto;
+  }
+  .logo{
+      float: left;
+  }
+  .timer{
+      font-family: 'Russo One', sans-serif;
+      font-size: xx-large;
+      margin-right: 2rem;
+  }
+  @media screen and (max-width: 600px) {
+      .land-nav{
+          flex-direction: column;
+      }
+  }
