@@ -14,7 +14,7 @@
         Space Babiez NFTZ are digital collectibles with rarities, evolution, and
         utility living on the Polygon Blockchain. Together they create an
         underground world of art, community, and amuzement called Space Babiez
-        Univerze (SBU).
+        Univerze (SBU). Created by two brothers looking to build an organic community.
       </p>
     </div>
     <div class="intro">
