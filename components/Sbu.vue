@@ -121,9 +121,6 @@
       <a href="https://instagram.com/sbabiez" target="_blank"
         ><img class="icon" src="instagram.png"
       /></a>
-      <a href="https://twitter.com" target="_blank"
-        ><img class="icon" src="discord.png"
-      /></a>
       <a
         href="mailto:spacebabieznftz@gmail.com?subject=Join the Space Baby Universe!"
         target="_blank"
