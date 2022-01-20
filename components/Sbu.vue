@@ -1,8 +1,8 @@
 <template>
   <div class="sbu-container">
     <div class="land-nav top">
-        <h1 class="countdown">Space Babiez Landing Soon!!!</h1>
-     <countdown class="timer" deadline="January 28, 2022"></countdown>
+      <h1 class="countdown">Space Babiez Landing Soon!!!</h1>
+      <countdown class="timer" deadline="January 31, 2022"></countdown>
       <img class="icon2 top" src="logo1.png" />
       <a href="https://withkoji.com/@SpaceBabiez" target="_blank"
         ><button class="koji top">SBU Portal</button></a
@@ -11,52 +11,31 @@
     </div>
     <div class="intro">
       <p class="promo">
-        Space Babiez NFTZ are dope digital collectibles with rarities,
-        evolution, and utility living on the Polygon Blockchain. Together they
-        create an underground world of art, community, and amuzement called
-        Space Babiez Univerze (SBU). The Space Baby Univerze (SBU) is divided
-        into 3 galaxies: ETHERLand, METROVerse, and ASTROVerse.
+        Space Babiez NFTZ are digital collectibles with rarities, evolution, and
+        utility living on the Polygon Blockchain. Together they create an
+        underground world of art, community, and amuzement called Space Babiez
+        Univerze (SBU).
       </p>
     </div>
     <div class="intro">
       <p>
-        Each Baby will have one tradeable copy and there will only be 4000
-        Origin Babiez and 1000 Collectors Cards created before Generation II is
-        produced. There are 130 traits included in the production of the Origin
-        Babiez and are randomly generated to obtain 4,000 unique images. The
-        features included in the production of the Collector Cards are infinite
-        and carefully curated to produce a cohesive theme.
-      </p>
-    </div>
-    <div class="intro">
-      <p>
-        Holding guardianship of a Baby represents your citizenship within the
-        SBU. As Guardianz we are here to ensure that no child is left behind. It
-        takes a village to raise a baby.
-      </p>
-    </div>
-    <div class="intro">
-      <p>
-        <span class="header">WHO ARE THE SPACE BABIEZ ?</span> Space Babiez NFTZ
-        are dope digital collectibles living on the Polygon Blockchain. Together
-        they create an underground universe of art, community, and amusement
-        called Space Babiez Univerze (SBU). Space Babiez are dope-keepsakes with
-        rarity, level up properties, and utility. Each Baby will have one
-        tradeable copy and there will only be 4000 Origin Babiez and 1000
-        Collectors Cards created before Generation II is produced. There are 115
-        traits included in the production of the Origin Babiez with special
-        rarities. The features included in the production of the Collector Cards
-        are infinite and carefully independently curated to produce a cohesive
-        theme. Collector Cards are conceptualized from varying themes and are
-        released in sets. A set can have between 2-50 collectibles depending on
-        the theme. Some Babiez are more grand than others but all of them are
-        super dope, personal, and quirky.
+        <span class="header">WHO ARE THE SPACE BABIEZ ?</span> Space Babiez are
+        dope-keepsakes with rarity, level up properties, and utility. Each Baby
+        will have one tradeable copy and there will only be 4000 Origin Babiez
+        and 1000 Collectors Cards created before Generation II is produced.
+        There are 115 traits included in the production of the Origin Babiez
+        with special rarities. The features included in the production of the
+        Collector Cards are infinite and carefully independently curated to
+        produce a cohesive theme. Collector Cards are conceptualized from
+        varying themes and are released in sets. A set can have between 2-50
+        collectibles depending on the theme. Some Babiez are more grand than
+        others but all of them are super dope, personal, and quirky.
       </p>
     </div>
     <div class="intro">
       <p>
         <span class="header">WHAT IS SBU?</span> SBU or Space Baby Universe is
-        where the Babiez live and the Guardians play. We are bringing back the
+        where the Babiez live and the Guardianz play. We are bringing back the
         nostalgia of true collectible cards and keepsakes that can be comparable
         to some of our childhood favorites. This project was created in essence
         of the nostalgic merging elements of Pokemon, Harry Potter, Digimon,
@@ -75,22 +54,22 @@
         Univerze while building our Digital Utopia. This will include
         collaborating with people like you to keep the SBU thriving. Guardianz
         of the Babiez work together to create an unlimited future for Kidz
-        everywhere. Guardians are included in all of our community initiatives,
+        everywhere. Guardianz are included in all of our community initiatives,
         which will have physical and virtual components. You will have a vote in
         what charities and communities we will support and help steer the
         spaceship to our final destination as a community. SBU also takes care
         of our own! As Guardianz, you are just as important to the world as each
         Space Baby. We will invest US Dollars into a community fund to assist
         our members in times of need through SBU initiatives. SBU is not here to
-        promise the world, but we are dedicated to innovation, art, amusement,
+        promise the world, but we are dedicated to innovation, art, amuzement,
         and community which are considered the building blocks of our brand.
       </p>
     </div>
     <div class="intro">
       <p>
-        <span class="header">WHAT CAN YOU DO WITH A SPACE BABY?</span> Guardians
+        <span class="header">WHAT CAN YOU DO WITH A SPACE BABY?</span> Guardianz
         will have the opportunity to generate passive income from their Baby
-        through merch drops, animation, and other commercial usages. Guardians
+        through merch drops, animation, and other commercial usages. Guardianz
         have copyright transfer rights to use and monetize your baby as you
         wish. These opportunities are backed by the entire SBU and the Space
         Baby Project Staff. The most favorited Babiez can generate massive
@@ -110,8 +89,8 @@
         <span class="header">HOW TO STAY IN THE KNOW?</span> Follow Space Babiez
         on all social media platforms. We will be giving away some treasured
         prizes during our launch week that will include cash give-a-ways, NFT
-        Airdrops, Whitelisting, and special items like a brand new PS5 and XBOX
-        Series One. Look out for chances to win at the accounts below!
+        Airdrops, Whitelisting, and special items like a brand new PS5! Look out
+        for chances to win at the accounts below!
       </p>
     </div>
     <div class="social-icons">
