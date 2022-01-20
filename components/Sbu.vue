@@ -34,7 +34,7 @@
     </div>
     <div class="intro">
       <p>
-        <span class="header">WHAT IS SBU?</span> SBU or Space Baby Universe is
+        <span class="header">WHAT IS SBU?</span> SBU or Space Baby Univerze is
         where the Babiez live and the Guardianz play. We are bringing back the
         nostalgia of true collectible cards and keepsakes that can be comparable
         to some of our childhood favorites. This project was created in essence
@@ -101,11 +101,14 @@
         ><img class="icon" src="instagram.png"
       /></a>
       <a
-        href="mailto:spacebabieznftz@gmail.com?subject=Join the Space Baby Universe!"
+        href="mailto:spacebabieznftz@gmail.com?subject=Join the Space Baby Univerze!"
         target="_blank"
       >
         <img class="icon" src="gmail.png" />
       </a>
+      <a href="https://withkoji.com/@SpaceBabiez" target="_blank"
+        ><button class="koji top">SBU Portal</button></a
+      >
     </div>
   </div>
 </template>
