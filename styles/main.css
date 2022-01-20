@@ -96,8 +96,36 @@ html {
       font-size: xx-large;
       margin-right: 2rem;
   }
+  .koji2{
+    border: 1px;
+    border-radius: 2rem;
+    border-style: solid;
+    border-color: chartreuse;
+    color: chartreuse;
+    height: 90px;
+    width: 250px;
+    padding: 2px;
+    font-family: 'Russo One', sans-serif;
+    font-size: x-large;
+    background-color: darkorchid;
+    cursor:pointer;
+}
   @media screen and (max-width: 600px) {
       .land-nav{
           flex-direction: column;
       }
+      .koji2{
+        border: 1px;
+        border-radius: 2rem;
+        border-style: solid;
+        border-color: chartreuse;
+        color: chartreuse;
+        height: 90px;
+        width: 75px;
+        padding: 2px;
+        font-family: 'Russo One', sans-serif;
+        font-size: x-large;
+        background-color: darkorchid;
+        cursor:pointer;
+    }
   }

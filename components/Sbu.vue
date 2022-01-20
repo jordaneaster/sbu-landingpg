@@ -107,7 +107,7 @@
         <img class="icon" src="gmail.png" />
       </a>
       <a href="https://withkoji.com/@SpaceBabiez" target="_blank"
-        ><button class="koji top">SBU Portal</button></a
+        ><button class="koji2 top">SBU Portal</button></a
       >
     </div>
   </div>
