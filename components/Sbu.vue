@@ -11,13 +11,14 @@
     </div>
     <div class="intro">
       <p class="promo">
-        Space Babiez NFTZ are digital collectibles with rarities, evolution, and
+        <!-- Space Babiez NFTZ are digital collectibles with rarities, evolution, and
         utility living on the Polygon Blockchain. Together they create an
         underground world of art, community, and amuzement called Space Babiez
-        Univerze (SBU). Created by two brothers looking to build an organic community.
+        Univerze (SBU). Created by two brothers looking to build an organic community. -->
+        Website Under Construction.. To Stay in tune, Visit SBU Portal, and social media links below!
       </p>
     </div>
-    <div class="intro">
+     <!--<div class="intro">
       <p>
         <span class="header">WHO ARE THE SPACE BABIEZ ?</span> Space Babiez are
         dope-keepsakes with rarity, level up properties, and utility. Each Baby
@@ -91,7 +92,7 @@
         prizes during our launch week that will include cash give-a-ways, NFT
         Airdrops, Whitelisting, and special items like a brand new PS5! Stay tapped into our social media accounts for special promotions and give-a-ways!
       </p>
-    </div>
+    </div> -->
     <div class="social-icons">
       <a href="https://twitter.com/spacebabiez" target="_blank"
         ><img class="icon" src="twitter.png"
